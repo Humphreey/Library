@@ -97,3 +97,5 @@ def info_func(*args, **kwargs):
     return args, kwargs
 # print(info_func(2, 3, p=100))
 # print(info_func(2, 3, p=100))
+
+print('1231231231231213213')
